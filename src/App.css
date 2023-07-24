@@ -1,0 +1,14 @@
+
+
+@media (min-width: 500px) {
+    body {
+        color: #f1faee;
+        background-color: #219ebc;
+    }
+}
+@media(max-width:480px){
+    body{
+        background-color: #023047;
+        color: #f1faee;
+    }
+}

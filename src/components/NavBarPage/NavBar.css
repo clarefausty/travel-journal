@@ -1,0 +1,23 @@
+.nav{
+    background-color:  #fb8500;
+    width: 110%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    color: #ffffff;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding: 1.2em 0 1.2em 0;
+}
+@media(min-width: 480px){
+    .nav{
+        padding: 2em 0 2em 0;
+    }
+}
+
+.icon{
+    font-size: 3rem;
+    color: #8ecae6;
+}
